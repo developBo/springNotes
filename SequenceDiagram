@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T10:41:16.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="0PnIGl6HuyaEqfJ0BLbV" version="14.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-03T10:47:20.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="DstYN_b6HYSSeQoUIJjn" version="14.2.9" type="github" pages="4">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="시퀀스 (원본 틀 예시)">
-    <mxGraphModel dx="1038" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="1">
+    <mxGraphModel dx="1303" dy="1033" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="72YgKo_k7w9MvNzmg1Rw-17" value="ㄱㄴㄷㄹ" style="verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;shadow=0;strokeWidth=1;" parent="1" edge="1">
+        <mxCell id="72YgKo_k7w9MvNzmg1Rw-17" value="ㄱㄴㄷㄹ" style="verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;shadow=0;strokeWidth=1;dashed=1;" parent="1" edge="1">
           <mxGeometry x="684.33" y="203" as="geometry">
             <mxPoint x="1074" y="537.9999999999998" as="sourcePoint" />
             <mxPoint x="795.9971698113209" y="537.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="72YgKo_k7w9MvNzmg1Rw-16" value="ㄱㄴㄷㄹ" style="verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;shadow=0;strokeWidth=1;" parent="1" edge="1">
+        <mxCell id="72YgKo_k7w9MvNzmg1Rw-16" value="ㄱㄴㄷㄹ" style="verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;shadow=0;strokeWidth=1;dashed=1;" parent="1" edge="1">
           <mxGeometry x="400.33000000000004" y="222" as="geometry">
             <mxPoint x="790" y="557" as="sourcePoint" />
             <mxPoint x="511.9971698113208" y="557" as="targetPoint" />
@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-4" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
-          <mxGeometry x="93.05597484276728" y="223.33333333333331" width="18.611194968553455" height="148.88888888888886" as="geometry" />
+          <mxGeometry x="93.06" y="257" width="18.61" height="115.22" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="~.~.~Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;fontSize=20;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="408.9215094339622" y="301.66666666666663" width="186.11194968553457" height="558.3333333333334" as="geometry" />
@@ -52,9 +52,10 @@
             <mxPoint x="362.39352201257856" y="450.55555555555554" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3nuBFxr9cyL0pnOWT2aG-9" value="ㄱㄴㄷㄹ" style="verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;shadow=0;strokeWidth=1;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-6" target="3nuBFxr9cyL0pnOWT2aG-4" edge="1">
-          <mxGeometry x="73.92" y="190" as="geometry">
-            <mxPoint x="297.25433962264145" y="525" as="sourcePoint" />
+        <mxCell id="3nuBFxr9cyL0pnOWT2aG-9" value="ㄱㄴㄷㄹ" style="verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;shadow=0;strokeWidth=1;dashed=1;" parent="1" edge="1">
+          <mxGeometry x="73.92" y="245" as="geometry">
+            <mxPoint x="492.6718867924528" y="580" as="sourcePoint" />
+            <mxPoint x="185.5871698113208" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-10" value="ㄱㄴㄷㄹ" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=1;exitY=0.95;shadow=0;strokeWidth=1;" parent="1" source="3nuBFxr9cyL0pnOWT2aG-4" target="3nuBFxr9cyL0pnOWT2aG-6" edge="1">
