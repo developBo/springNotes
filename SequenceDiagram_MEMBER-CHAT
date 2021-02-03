@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T13:52:55.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" etag="GJV2QeaSphmqDp7xsXAt" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T14:00:30.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" etag="YRHRycOPjJu6WvBUfzbi" version="14.2.9" type="github">
   <diagram id="3ShV0uEa62tVFLvA6kWg" name="Member">
-    <mxGraphModel dx="1029" dy="730" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="1">
+    <mxGraphModel dx="1662" dy="768" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
             <mxPoint x="152" y="23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nGupPwv8OrULRrMWhLQG-27" value="return loginMember()" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="nGupPwv8OrULRrMWhLQG-27" value="return loginMember" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry x="361.92" y="29" as="geometry">
             <mxPoint x="477" y="572" as="targetPoint" />
             <mxPoint x="763" y="572" as="sourcePoint" />
@@ -474,7 +474,7 @@
             <mxPoint x="260.94874213836476" y="2834.777777777778" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nGupPwv8OrULRrMWhLQG-135" value="redirect:home.do" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="nGupPwv8OrULRrMWhLQG-135" value="redirect:logout.do" style="verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;shadow=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry x="57.64" y="2718.89" as="geometry">
             <mxPoint x="160.00157232704396" y="3262.3377777777787" as="targetPoint" />
             <mxPoint x="439" y="3262" as="sourcePoint" />
