@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T19:18:22.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" etag="BWpIGABqOhx94SLae0vw" version="14.2.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-03T19:20:06.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" etag="ycy0PGw64a9VPMbcWpa3" version="14.2.9" type="github" pages="3">
   <diagram id="2wYN67taoyT5kA93DBCL" name="클래스 (원본 틀 예시)">
     <mxGraphModel dx="868" dy="1382" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -462,7 +462,7 @@
         <mxCell id="dSygdVdl9NUzZdc4QgNZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;spacingLeft=15;" edge="1" parent="dSygdVdl9NUzZdc4QgNZ-1" source="dSygdVdl9NUzZdc4QgNZ-3" target="dSygdVdl9NUzZdc4QgNZ-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dSygdVdl9NUzZdc4QgNZ-3" value="Clss" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=20;spacingLeft=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dSygdVdl9NUzZdc4QgNZ-1">
+        <mxCell id="dSygdVdl9NUzZdc4QgNZ-3" value="Pay" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=20;spacingLeft=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dSygdVdl9NUzZdc4QgNZ-1">
           <mxGeometry x="40" y="209" width="227" height="530" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -478,7 +478,7 @@
         <mxCell id="dSygdVdl9NUzZdc4QgNZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=24;" edge="1" parent="dSygdVdl9NUzZdc4QgNZ-1" source="dSygdVdl9NUzZdc4QgNZ-7" target="dSygdVdl9NUzZdc4QgNZ-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dSygdVdl9NUzZdc4QgNZ-7" value="ClssDao" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=20;spacingLeft=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dSygdVdl9NUzZdc4QgNZ-1">
+        <mxCell id="dSygdVdl9NUzZdc4QgNZ-7" value="PayDao" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=38;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=20;spacingLeft=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dSygdVdl9NUzZdc4QgNZ-1">
           <mxGeometry x="316" y="327" width="341" height="295" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -495,7 +495,7 @@
         <mxCell id="dSygdVdl9NUzZdc4QgNZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;fontSize=24;" edge="1" parent="dSygdVdl9NUzZdc4QgNZ-1" source="dSygdVdl9NUzZdc4QgNZ-12" target="dSygdVdl9NUzZdc4QgNZ-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dSygdVdl9NUzZdc4QgNZ-12" value="ClssServiceImpl" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=37;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=20;spacingLeft=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dSygdVdl9NUzZdc4QgNZ-1">
+        <mxCell id="dSygdVdl9NUzZdc4QgNZ-12" value="PayServiceImpl" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=37;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=20;spacingLeft=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dSygdVdl9NUzZdc4QgNZ-1">
           <mxGeometry x="705" y="40" width="315" height="419" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -515,7 +515,7 @@
         <mxCell id="dSygdVdl9NUzZdc4QgNZ-17" value="selectList : ArrayList&lt;Clss&gt;&#xa;selectClss : clss&#xa;insertClss : clss&#xa;deleteClss : int&#xa;updateClss : int&#xa;addReadCount : int&#xa;getListCount : int" style="text;align=left;verticalAlign=top;spacingLeft=15;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;" vertex="1" parent="dSygdVdl9NUzZdc4QgNZ-12">
           <mxGeometry y="217" width="315" height="196" as="geometry" />
         </mxCell>
-        <mxCell id="dSygdVdl9NUzZdc4QgNZ-18" value="ClssService" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=35;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=20;spacingLeft=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dSygdVdl9NUzZdc4QgNZ-1">
+        <mxCell id="dSygdVdl9NUzZdc4QgNZ-18" value="PayService" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=35;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=20;spacingLeft=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dSygdVdl9NUzZdc4QgNZ-1">
           <mxGeometry x="725.5" y="618" width="274" height="261" as="geometry">
             <mxRectangle x="550" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -523,7 +523,7 @@
         <mxCell id="dSygdVdl9NUzZdc4QgNZ-19" value="selectList : ArrayList&lt;Clss&gt;&#xa;selectClss : clss&#xa;insertClss : clss&#xa;deleteClss : int&#xa;updateClss : int&#xa;addReadCount : int&#xa;getListCount : int" style="text;align=left;verticalAlign=top;spacingLeft=15;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;" vertex="1" parent="dSygdVdl9NUzZdc4QgNZ-18">
           <mxGeometry y="35" width="274" height="223" as="geometry" />
         </mxCell>
-        <mxCell id="dSygdVdl9NUzZdc4QgNZ-20" value="ClssController" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=47;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=20;spacingLeft=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dSygdVdl9NUzZdc4QgNZ-1">
+        <mxCell id="dSygdVdl9NUzZdc4QgNZ-20" value="PayController" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=47;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=20;spacingLeft=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dSygdVdl9NUzZdc4QgNZ-1">
           <mxGeometry x="1074" y="235" width="492" height="479" as="geometry">
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
@@ -551,7 +551,7 @@
             <mxPoint x="998.404" y="683.212" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSygdVdl9NUzZdc4QgNZ-28" value="&lt;font style=&quot;font-size: 20px&quot;&gt;clss-mapper.xml&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dSygdVdl9NUzZdc4QgNZ-1">
+        <mxCell id="dSygdVdl9NUzZdc4QgNZ-28" value="&lt;font style=&quot;font-size: 20px&quot;&gt;pay-mapper.xml&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="dSygdVdl9NUzZdc4QgNZ-1">
           <mxGeometry x="316" y="831" width="340.51" height="38.33" as="geometry" />
         </mxCell>
         <mxCell id="dSygdVdl9NUzZdc4QgNZ-29" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="dSygdVdl9NUzZdc4QgNZ-1">
