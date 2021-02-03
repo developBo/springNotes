@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T14:00:30.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" etag="YRHRycOPjJu6WvBUfzbi" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-03T14:02:29.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.56" etag="YjBhvdMkWd7-OSUvl_jI" version="14.2.9" type="github">
   <diagram id="3ShV0uEa62tVFLvA6kWg" name="Member">
     <mxGraphModel dx="1662" dy="768" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="1">
       <root>
@@ -232,7 +232,7 @@
             <mxPoint x="440" y="1466" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nGupPwv8OrULRrMWhLQG-54" value="(유효성 검사)&#xa;로그인실패시&#xa;&#xa;return common/errorPage" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.947;entryY=0.308;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="nGupPwv8OrULRrMWhLQG-34">
+        <mxCell id="nGupPwv8OrULRrMWhLQG-54" value="(유효성 검사)&#xa;회원가입실패시&#xa;&#xa;return common/errorPage" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.947;entryY=0.308;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="nGupPwv8OrULRrMWhLQG-34">
           <mxGeometry x="-15" y="-4" as="geometry">
             <mxPoint x="161" y="1498" as="sourcePoint" />
             <mxPoint x="438" y="1498" as="targetPoint" />
@@ -353,7 +353,7 @@
             <mxPoint x="445" y="2353" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nGupPwv8OrULRrMWhLQG-107" value="(유효성 검사)&#xa;로그인실패시&#xa;&#xa;return common/errorPage" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.947;entryY=0.308;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="nGupPwv8OrULRrMWhLQG-89">
+        <mxCell id="nGupPwv8OrULRrMWhLQG-107" value="(유효성 검사)&#xa;회원수정실패시&#xa;&#xa;return common/errorPage" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.947;entryY=0.308;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="nGupPwv8OrULRrMWhLQG-89">
           <mxGeometry x="-10" y="883" as="geometry">
             <mxPoint x="166" y="2385" as="sourcePoint" />
             <mxPoint x="443" y="2385" as="targetPoint" />
@@ -480,7 +480,7 @@
             <mxPoint x="439" y="3262" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nGupPwv8OrULRrMWhLQG-136" value="(유효성 검사)&#xa;로그인실패시&#xa;&#xa;return common/errorPage" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.947;entryY=0.308;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="nGupPwv8OrULRrMWhLQG-118">
+        <mxCell id="nGupPwv8OrULRrMWhLQG-136" value="(유효성 검사)&#xa;회원탈퇴실패시&#xa;&#xa;return common/errorPage" style="verticalAlign=bottom;endArrow=block;shadow=0;strokeWidth=1;entryX=0.947;entryY=0.308;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="nGupPwv8OrULRrMWhLQG-118">
           <mxGeometry x="-16" y="1792" as="geometry">
             <mxPoint x="160" y="3294" as="sourcePoint" />
             <mxPoint x="437" y="3294" as="targetPoint" />
