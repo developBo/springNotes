@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T13:37:42.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="EPuPeBUh8harpW6FrRpl" version="14.2.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-04T13:42:27.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="w6Pf1TQPEOVTBDoGlmLc" version="14.2.9" type="github" pages="4">
   <diagram id="2wYN67taoyT5kA93DBCL" name="클래스 (원본 틀 예시)">
     <mxGraphModel dx="1730" dy="1867" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -385,7 +385,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CLSS" id="_EuoW6mVMUx5CDbdH405">
-    <mxGraphModel dx="2076" dy="1160" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1323" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="OrcTN_kTpmjo3j6swVKU-0" />
         <mxCell id="OrcTN_kTpmjo3j6swVKU-1" parent="OrcTN_kTpmjo3j6swVKU-0" />
@@ -452,23 +452,20 @@
             <mxRectangle x="130" y="380" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OrcTN_kTpmjo3j6swVKU-47" value="@SessionAttribute : loginUser" style="text;align=left;verticalAlign=top;spacingLeft=15;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=20;" parent="OrcTN_kTpmjo3j6swVKU-46" vertex="1">
-          <mxGeometry y="47" width="492" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="OrcTN_kTpmjo3j6swVKU-48" value="@Controller" style="text;align=left;verticalAlign=top;spacingLeft=15;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=20;" parent="OrcTN_kTpmjo3j6swVKU-46" vertex="1">
-          <mxGeometry y="73" width="492" height="28" as="geometry" />
+          <mxGeometry y="47" width="492" height="28" as="geometry" />
         </mxCell>
         <mxCell id="OrcTN_kTpmjo3j6swVKU-49" value="@Autowired" style="text;align=left;verticalAlign=top;spacingLeft=15;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=20;" parent="OrcTN_kTpmjo3j6swVKU-46" vertex="1">
-          <mxGeometry y="101" width="492" height="28" as="geometry" />
+          <mxGeometry y="75" width="492" height="28" as="geometry" />
         </mxCell>
         <mxCell id="OrcTN_kTpmjo3j6swVKU-50" value="ClssService : cService" style="text;align=left;verticalAlign=top;spacingLeft=15;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=20;" parent="OrcTN_kTpmjo3j6swVKU-46" vertex="1">
-          <mxGeometry y="129" width="492" height="28" as="geometry" />
+          <mxGeometry y="103" width="492" height="28" as="geometry" />
         </mxCell>
         <mxCell id="OrcTN_kTpmjo3j6swVKU-52" value="@RequestMapping" style="text;align=left;verticalAlign=top;spacingLeft=15;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=20;" parent="OrcTN_kTpmjo3j6swVKU-46" vertex="1">
-          <mxGeometry y="157" width="492" height="28" as="geometry" />
+          <mxGeometry y="131" width="492" height="28" as="geometry" />
         </mxCell>
         <mxCell id="OrcTN_kTpmjo3j6swVKU-53" value="clist.do&#xa;cdetail.do&#xa;apply.do&#xa;tclist.do&#xa;tcdetail.do&#xa;tcinsert.do&#xa;tcupdate.do&#xa;adclist.do&#xa;adcdetail.do&#xa;adcinsert.do&#xa;adcdelete.do" style="text;align=left;verticalAlign=top;spacingLeft=15;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=20;" parent="OrcTN_kTpmjo3j6swVKU-46" vertex="1">
-          <mxGeometry y="185" width="492" height="271" as="geometry" />
+          <mxGeometry y="159" width="492" height="271" as="geometry" />
         </mxCell>
         <mxCell id="OrcTN_kTpmjo3j6swVKU-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;fontSize=20;spacingLeft=15;entryX=1.008;entryY=0.366;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" parent="OrcTN_kTpmjo3j6swVKU-1" source="OrcTN_kTpmjo3j6swVKU-3" target="OrcTN_kTpmjo3j6swVKU-53" edge="1">
           <mxGeometry relative="1" as="geometry">
